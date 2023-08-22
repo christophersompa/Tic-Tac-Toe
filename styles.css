@@ -125,6 +125,7 @@ body{
     align-items: center;
     color: #fff;
     font-size: 5rem;
+    flex-direction: column;
 }
 
 .winning-msg button{
